@@ -1,0 +1,4 @@
+weixinTest
+==========
+
+test weixing app 
